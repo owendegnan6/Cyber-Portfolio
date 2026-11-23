@@ -1,36 +1,45 @@
 # Owen Degnan — Cyber Portfolio
 
-I'm a Computer Science student at Saint Francis University with minors in Cybersecurity and Data Analytics. This portfolio includes my work from CSA 201: Digital Forensics I with Professor Zambotti during Fall 2026. I'm interested in cybersecurity and digital forensics, and my long-term goal is to work for the Federal Government.
+I'm a Computer Science student at Saint Francis University with minors in Cybersecurity and Data Analytics. This portfolio includes my reports and coursework from CSA 201: Digital Forensics I with Professor Zambotti during Fall 2026.
+
+I'm interested in cybersecurity and digital forensics, and my long-term goal is to work for the FBI. I'll continue adding to this portfolio as I complete more classes and projects.
 
 ## Reports
 
-- **Precious Reporting:** My report for the Precious case assignment.
-- **Mantooth Reporting:** My report for the Mantooth case assignment.
-- **Washer Assignment:** My report for the Washer case assignment.
+### Precious Reporting
+My report for the Precious digital forensics case assignment.
+
+### Mantooth Reporting
+My report for the Mantooth digital forensics case assignment.
+
+### Washer Assignment
+My report for the Washer digital forensics case assignment.
 
 ## Tools Used
 
 ### Autopsy
-Website: https://www.autopsy.com/
+https://www.autopsy.com/
 
-Autopsy helps examine disk images and find digital evidence. It can be used to review files, recover deleted data, and look for signs of user activity.
+Autopsy helps investigators examine disk images and locate digital evidence. It can be used to review files, recover deleted data, and find information about user activity.
 
 ### Volatility
-Website: https://volatilityfoundation.org/
+https://volatilityfoundation.org/
 
-Volatility examines memory dumps for evidence of what was happening on a computer. It can show running processes, network connections, and other information stored in memory.
+Volatility examines memory dumps to find evidence of what was happening on a computer. It can reveal running processes, network connections, and signs of suspicious activity.
 
-### [Add your third tool]
-Website: [Add the tool's website]
+### Registry Explorer
+https://ericzimmerman.github.io/
 
-[Add a sentence or two explaining what the tool does.]
+Registry Explorer is used to examine Windows registry files. These can contain information about user accounts, connected USB devices, recently opened files, and installed programs.
 
-## Other Coursework
+## TryHackMe Coursework
 
-I also completed the TryHackMe Windows Forensics 1 and Volatility assignments. These covered Windows artifacts and how memory analysis can help with an investigation.
+### Windows Forensics 1
+I completed this assignment to learn about Windows artifacts and how they can help investigators understand activity on a computer.
+
+### Volatility Essentials
+I completed this room with 100% completion. It covered memory acquisition and analysis, listing processes and connections, hunting for suspicious activity, and practical investigations.
 
 ## What I Learned
 
-This class helped me understand how investigators use digital evidence to piece together activity on a computer. It also showed me why clear reports matter. Findings need to be documented carefully, and conclusions need evidence to support them.
-
-I'll add more projects and reports as I continue taking cybersecurity and digital forensics classes.
+This course helped me understand how digital evidence can be used to piece together what happened on a computer. I also learned how important it is to keep findings organized and explain them clearly. A report needs to show what the evidence supports and where questions remain.
