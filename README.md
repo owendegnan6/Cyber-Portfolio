@@ -6,14 +6,11 @@ I'm interested in cybersecurity and digital forensics, and my long-term goal is 
 
 ## Reports
 
-### Precious Reporting
-My report for the Precious digital forensics case assignment.
+## Reports
 
-### Mantooth Reporting
-My report for the Mantooth digital forensics case assignment.
-
-### Washer Assignment
-My report for the Washer digital forensics case assignment.
+- [Precious Reporting](PreciousReport-OD.pdf)
+- [Mantooth Reporting](mantooth-OD.pdf)
+- [Washer Assignment](WasherAssignmentCPSC201-OD.pdf)
 
 ## Tools Used
 
