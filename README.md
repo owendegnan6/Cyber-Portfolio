@@ -1,39 +1,36 @@
-# Owen Degnan | Cyber Portfolio
+# Owen Degnan — Cyber Portfolio
 
-I'm a Computer Science student at Saint Francis University with minors in Cybersecurity and Data Analytics. I'm interested in software development, digital forensics, and pursuing a career with the FBI.
+I'm a Computer Science student at Saint Francis University with minors in Cybersecurity and Data Analytics. This portfolio includes my work from CSA 201: Digital Forensics I with Professor Zambotti during Fall 2026. I'm interested in cybersecurity and digital forensics, and my long-term goal is to work for the Federal Government.
 
-This portfolio brings together my reports and coursework from CSA 201: Digital Forensics I with Professor Zambotti during Fall 2026. I'll continue adding work as I take more cybersecurity and forensics classes.
+## Reports
 
-## Forensic Reports
-
-The reports below are included in this repository.
-
-### Precious Reporting
-My report for the Precious digital forensics case assignment.
-
-### Mantooth Reporting
-My report for the Mantooth digital forensics case assignment.
-
-### Washer Assignment
-My report for the Washer digital forensics case assignment.
+- **Precious Reporting:** My report for the Precious case assignment.
+- **Mantooth Reporting:** My report for the Mantooth case assignment.
+- **Washer Assignment:** My report for the Washer case assignment.
 
 ## Tools Used
 
-| Tool | Website | Description |
-| --- | --- | --- |
-| Autopsy | https://www.autopsy.com/ | Autopsy is used to examine disk images and organize digital evidence. It can help investigators locate files, recover deleted data, and review user activity. |
-| Volatility | https://volatilityfoundation.org/ | Volatility analyzes memory dumps to uncover information about a computer's activity. It can identify running processes, network connections, and other evidence stored in RAM. |
-| [Third tool name] | [Official website link] | [Write 1–2 sentences explaining what this tool does.] |
+### Autopsy
+Website: https://www.autopsy.com/
 
-## Additional Coursework
+Autopsy helps examine disk images and find digital evidence. It can be used to review files, recover deleted data, and look for signs of user activity.
 
-- **TryHackMe Windows Forensics 1:** Coursework focused on Windows artifacts and how they can help reconstruct activity on a computer.
-- **TryHackMe Volatility:** Coursework focused on memory analysis using Volatility.
+### Volatility
+Website: https://volatilityfoundation.org/
+
+Volatility examines memory dumps for evidence of what was happening on a computer. It can show running processes, network connections, and other information stored in memory.
+
+### [Add your third tool]
+Website: [Add the tool's website]
+
+[Add a sentence or two explaining what the tool does.]
+
+## Other Coursework
+
+I also completed the TryHackMe Windows Forensics 1 and Volatility assignments. These covered Windows artifacts and how memory analysis can help with an investigation.
 
 ## What I Learned
 
-This course helped me understand how digital evidence can be examined and presented in a report. I learned the importance of documenting findings clearly, keeping evidence organized, and making sure conclusions are supported by the available information.
+This class helped me understand how investigators use digital evidence to piece together activity on a computer. It also showed me why clear reports matter. Findings need to be documented carefully, and conclusions need evidence to support them.
 
-## About This Work
-
-These reports were completed for classroom assignments using course-provided evidence.
+I'll add more projects and reports as I continue taking cybersecurity and digital forensics classes.
